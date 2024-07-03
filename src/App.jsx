@@ -115,6 +115,11 @@ export default function App() {
               <div className="des">Description</div>
             </div>
           </div>
+
+          <div className="arrows">
+            <button className="prev"><</button>
+            <button className="next">></button>
+          </div>
         </div>
       </div>
     </>
