@@ -83,3 +83,17 @@ header a {
   gap: 5px;
   margin-top: 20px;
 }
+
+.carousel .list .item .content button {
+  border: none;
+  background-color: white;
+  letter-spacing: 3px;
+  font-family: Poppins;
+  font-weight: 500;
+}
+
+.carousel .list .item .content button:nth-child(2) {
+  background-color: transparent;
+  color: white;
+  border: 1px solid white;
+}
