@@ -35,6 +35,54 @@ export default function App() {
                 </div>
               </div>
             </div>
+            <div className="item">
+              <img src={image2} alt="" />
+              <div className="content">
+                <div className="author">LUNDEV</div>
+                <div className="title">Desing Slider</div>
+                <div className="topic">Game</div>
+                <div className="des">
+                  dnwqjndjwq dkjwnqjdwq jdnqwjndjq wndqwjndwq ndwq dnwqnd jwqndj
+                  wqn
+                </div>
+                <div className="buttons">
+                  <button>SEE MORE</button>
+                  <button>SUBSCRIBE</button>
+                </div>
+              </div>
+            </div>
+            <div className="item">
+              <img src={image3} alt="" />
+              <div className="content">
+                <div className="author">LUNDEV</div>
+                <div className="title">Desing Slider</div>
+                <div className="topic">Game</div>
+                <div className="des">
+                  dnwqjndjwq dkjwnqjdwq jdnqwjndjq wndqwjndwq ndwq dnwqnd jwqndj
+                  wqn
+                </div>
+                <div className="buttons">
+                  <button>SEE MORE</button>
+                  <button>SUBSCRIBE</button>
+                </div>
+              </div>
+            </div>
+            <div className="item">
+              <img src={image4} alt="" />
+              <div className="content">
+                <div className="author">LUNDEV</div>
+                <div className="title">Desing Slider</div>
+                <div className="topic">Game</div>
+                <div className="des">
+                  dnwqjndjwq dkjwnqjdwq jdnqwjndjq wndqwjndwq ndwq dnwqnd jwqndj
+                  wqn
+                </div>
+                <div className="buttons">
+                  <button>SEE MORE</button>
+                  <button>SUBSCRIBE</button>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
