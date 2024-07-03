@@ -85,6 +85,37 @@ export default function App() {
             </div>
           </div>
         </div>
+
+        <div className="thumbnail">
+          <div className="item">
+            <img src={image1} />
+            <div className="content">
+              <div className="title"> Name Slider</div>
+              <div className="des">Description</div>
+            </div>
+          </div>
+          <div className="item">
+            <img src={image2} />
+            <div className="content">
+              <div className="title"> Name Slider</div>
+              <div className="des">Description</div>
+            </div>
+          </div>
+          <div className="item">
+            <img src={image3} />
+            <div className="content">
+              <div className="title"> Name Slider</div>
+              <div className="des">Description</div>
+            </div>
+          </div>
+          <div className="item">
+            <img src={image4} />
+            <div className="content">
+              <div className="title"> Name Slider</div>
+              <div className="des">Description</div>
+            </div>
+          </div>
+        </div>
       </div>
     </>
   );
