@@ -2,4 +2,26 @@
 
 body {
   font-family: Poppins;
+  background-color: black;
+  color: white;
+  margin: 0;
+  font-size: 12px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+header {
+  width: 1140px;
+  max-width: 80%;
+  margin: auto;
+  height: 50px;
+  display: flex;
+  align-items: center;
+}
+
+header a {
+  margin-right: 40px;
 }
